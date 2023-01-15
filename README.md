@@ -1,8 +1,8 @@
-I started using Fedora Silverblue recently and I had stumbled upon a roadblock while using my setup, more of a dilemma than a real problem, so last week I posted a question basically asking what is the best way to do programming on an immutable OS.
+Some time after starting using Fedora Silverblue I had stumbled upon a roadblock while using my setup, more of a dilemma than a real problem, so I then posted a [question](https://www.reddit.com/r/FedoraSilverblue/comments/106w68y/how_to_work_with_editors/) basically asking what is the best way to do programming on an immutable OS.
 
-Now I come back to wrap up this discussion (or even spur new ideas I didn't think of) that I feel needs to be highlighted for others who might find it useful, maybe because they are facing those same questions, or because they have been holding off from taking the plunge into immutable OSes thinking that they would just make everything more complicated than it needs to be.
+I'd like to wrap up this discussion (or even spur new ideas I didn't think of) that I feel needs to be highlighted for others who might find it useful, maybe because they are facing those same questions, or because they have been holding off from taking the plunge into immutable OSes thinking that they would just make everything more complicated than it needs to be.
 
-About that last point it is kind of true, but it largely depends how you go about doing the things you want to do, sometimes, like in the case of programming you may find that in the end all the preparatory work saves you from other headaches down the line, such as:
+About that last point, it is kind of true, but it largely depends how you go about doing the things you want to do, sometimes, like in the case of programming you may find that in the end all the preparatory work saves you from other headaches down the line, such as:
 
 - cluttered home directory
 - system upgrades not working unless done from the command line
